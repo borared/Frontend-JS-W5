@@ -13,8 +13,6 @@ export function User({ user }) {
   );
 }
 
-
-
 function App() {
   return (
     <div id="app">
